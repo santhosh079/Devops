@@ -1,1 +1,0 @@
-text is from file6.txt created under newclonedir
